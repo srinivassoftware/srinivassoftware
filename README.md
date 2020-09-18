@@ -1,16 +1,17 @@
 ### Hi there i am srinivas👋
 
-<!--
-**srinivassoftware/srinivassoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<?xml version ="1.0"?>
+<pnp:Provisioning xmlns:pnp="http://schemas.dev.office.com/PnP/2019/03/ProvisioningSchema">
+ <pnp:Preferences/>
+ <pnp:Templates ID="CONTAINER-TEMPLATE-c49f81cd-19d0-458d-a99d-1a616c252add">
+  <pnp:ProvisioningTemplate ID="TEMPLATE-c49f81cd-19d0-458d-a99d-1a616c252add" Version ="1">
+  <pnp:Footer Enabled="true" Name="" Logo="SiteAssets/logo.png" RemoveExistingNodes="true">
+    <pnp:FooterLinks>
+      <pnp:FooterLink DisplayName="Contact Us" Url="http://www.crescent.com/contact-us" />
+		  <pnp:FooterLink DisplayName="Site Map" Url="http://www.crescent.com/sitemap" />
+      <pnp:FooterLink DisplayName="Privacy Policy" Url="http://www.crescent.com/privacy-policy" />
+     </pnp:FooterLinks>
+  </pnp:Footer>
+  </pnp:ProvisioningTemplate>
+  </pnp:Templates>
+</pnp:Provisioning>
